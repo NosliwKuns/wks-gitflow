@@ -43,7 +43,6 @@ const People = () => {
   return (
     <div>
       <Table columns={columns} data={data.results} /* :D */ />
-      <button>Soy malo</button>
     </div>
   )
 };
