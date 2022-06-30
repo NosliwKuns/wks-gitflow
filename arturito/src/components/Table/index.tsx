@@ -11,6 +11,6 @@ const CustomTable = ({ columns, data }: { columns: Column[]; data: any[] }) => (
   <Table columns={columns} dataSource={data} />
 );
 
-const a = 1;
+const b = 1;
 
 export default CustomTable;
